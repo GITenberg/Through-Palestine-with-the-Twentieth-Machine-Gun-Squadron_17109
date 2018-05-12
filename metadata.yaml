@@ -1,0 +1,28 @@
+_repo: Through-Palestine-with-the-Twentieth-Machine-Gun-Squadron_17109
+_version: 0.1.0
+alternative_title: Through Palestine with the 20th Machine Gun Squadron
+covers:
+- cover_type: archival
+  image_path: 17109-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Machine Gun Squadron, 20th -- History'
+title: Through Palestine with the Twentieth Machine Gun Squadron
+url: http://www.gutenberg.org/ebooks/17109
